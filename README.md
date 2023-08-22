@@ -16,4 +16,7 @@ This is a repository for my Node.js experiments and teaching materials.
 #### [2.5. async/await](./Promises/await.js)
 #### [2.6. Promise.all()](./Promises/all.js)
 #### [2.7. Promise.race()](./Promises/race.js)
+### 3. Worker and Cluster
+#### [3.1. Worker](./WorkerCluster/worker.js)
+#### [3.2. Cluster](./WorkerCluster/cluster.js)
 
