@@ -17,6 +17,8 @@ This is a repository for my Node.js experiments and teaching materials.
 #### [2.6. Promise.all()](./Promises/all.js)
 #### [2.7. Promise.race()](./Promises/race.js)
 ### 3. Worker and Cluster
-#### [3.1. Worker](./WorkerCluster/worker.js)
-#### [3.2. Cluster](./WorkerCluster/cluster.js)
+#### [3.1. Worker](./Threads/worker.js)
+#### [3.2. Worker Error](./Threads/workerError.js)
+#### [3.3. Cluster](./Threads/cluster.js)
+#### [3.4. Cluster Error](./Threads/clusterError.js)
 
